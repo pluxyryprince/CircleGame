@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleGame", "CircleGame.csproj", "{49CC5BB1-818C-4A13-A018-6C179DB9FBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49CC5BB1-818C-4A13-A018-6C179DB9FBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CC5BB1-818C-4A13-A018-6C179DB9FBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CC5BB1-818C-4A13-A018-6C179DB9FBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CC5BB1-818C-4A13-A018-6C179DB9FBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9CA8235-EF89-4468-8D3B-44C3A8145571}
+	EndGlobalSection
+EndGlobal
